@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(242, 220, 192);
+}
+button{
+    width: 2em;
+    height: 2em;
+    margin: 0;
+    padding: 0;
+}
+#display {
+    background-color: white;
+    height: 2em;
+    width: 8em;
+}
